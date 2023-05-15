@@ -10516,11 +10516,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyDemo\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Repos\\SundayDemo\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\MyDemo\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Repos\\SundayDemo\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\2176491\\.nuget\\packages\\",
-      "outputPath": "C:\\MyDemo\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Repos\\SundayDemo\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2176491\\AppData\\Roaming\\NuGet\\NuGet.Config",
